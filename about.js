@@ -14,7 +14,7 @@ function handleSubmit(evt) {
 function giveACompliment(evt) {
 	evt.preventDefault();
 
-	alert("You are so nice for petting the cat!")
+	alert("You are so kind since you pat the cat!")
 }
 
 form.addEventListener('submit', handleSubmit);

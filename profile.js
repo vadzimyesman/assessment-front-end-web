@@ -12,7 +12,7 @@ function ritualButtonAlert (evt) {
 }
 function colorButtonAlert (evt) {
     evt.preventDefault();
-    alert("My favourite color is blue")
+    alert("My favourite color is black")
 }
 
 place.addEventListener("click", placeButtonAlert)
